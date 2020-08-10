@@ -8,4 +8,4 @@ All parts are labeled with a letter and a number modeled indicating its location
  
 It is suggested to use 18 pieces of 2 mm screws, whose model as (.STEP) file an details are provided [here](https://github.com/Eng-Abdulrazaq/Ftoo_Base_Parted/tree/master/Suggested%20screw).
 
-Finally, to watch animation of the assembly on [YouTube click here](https://youtu.be/O5PThQLYpg0).
+Finally, to watch animation of the assembly on [YouTube click here](https://youtu.be/nqtaJs7R158).
